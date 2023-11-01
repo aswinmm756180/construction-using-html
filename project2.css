@@ -1,0 +1,36 @@
+.navbar{
+    position: fixed;
+    z-index: 10;
+}
+.carousel{
+    position: relative;
+    top: 50px;
+}
+.nav{
+  text-align: right;
+  margin-left: 665px;
+}
+.card{
+  width: 150px;
+  height: 600px;
+  margin-top: 20px;
+  margin: auto;
+  padding: 90px;
+}
+
+.heading{
+ 
+  text-align: center;
+}
+
+.card1{
+  margin-left: 80px;
+  
+}
+.acard{
+  width: 200px;
+  height: 500px;
+  margin-top: 20px;
+  padding: 40px;
+  margin: auto;
+}
